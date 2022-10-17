@@ -4,6 +4,7 @@
   <img width="60" height="80" src="https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif" />
 </p>
 
+### Link da API: https://ds3messages.herokuapp.com/
 
 O projeto se trata de uma API simples que oferece todas as mensagens existentes do jogo Dark Souls 3, ;)
 
