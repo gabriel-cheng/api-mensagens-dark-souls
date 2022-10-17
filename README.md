@@ -30,7 +30,7 @@ ou
 $npm run server
 ```
 
-Também é recomendado que você tenha o ```Docker``` e o ```docker-compose``` em sua máquina para rodar a aplicação com as versões de dependências utilizadas no desenvolvimento.
+É recomendado que você tenha o ```Docker``` e o ```docker-compose``` em sua máquina e utilize-o para rodar a aplicação com as versões de dependências utilizadas no desenvolvimento.
 ### 🔧 Instalação
 
 1°- Acesse o site do Docker e baixe tanto o docker desktop, quanto o docker-compose:
