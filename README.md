@@ -6,7 +6,7 @@
 
 ### Link da API: https://ds3messages.herokuapp.com/
 
-O projeto se trata de uma API simples que oferece todas as mensagens existentes do jogo Dark Souls 3, ;)
+O projeto se trata de uma API simples que oferece todas as mensagens existentes do jogo Dark Souls 3. ;)
 
 ### 📋 Pré-requisitos
 
@@ -31,7 +31,7 @@ ou
 $npm run server
 ```
 
-É recomendado que você tenha o ```Docker``` e o ```docker-compose``` em sua máquina e utilize-o para rodar a aplicação com as versões de dependências utilizadas no desenvolvimento.
+É recomendado que você tenha o ```Docker``` e o ```docker-compose``` em sua máquina e utilize-os para rodar a aplicação com as versões de dependências utilizadas no desenvolvimento.
 ### 🔧 Instalação
 
 1°- Acesse o site do Docker e baixe tanto o docker desktop, quanto o docker-compose:
