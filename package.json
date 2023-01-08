@@ -3,14 +3,26 @@
     "express": "^4.18.2"
   },
   "scripts": {
-    "server": "nodemon --inspect-0.0.0.0 server.js"
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
+    "fix": "./node_modules/.bin/eslint --fix ."
   },
   "name": "api-messages-ds3",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<p align=\"center\">\r   <img width=\"60\" height=\"80\" src=\"https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif\" />\r   <strong>API COM TODAS AS MENSAGENS DE DARK SOULS 3</strong>\r   <img width=\"60\" height=\"80\" src=\"https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif\" />\r </p>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-cheng/api-mensagens-dark-souls.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabriel-cheng/api-mensagens-dark-souls/issues"
+  },
+  "homepage": "https://github.com/gabriel-cheng/api-mensagens-dark-souls#readme"
 }
