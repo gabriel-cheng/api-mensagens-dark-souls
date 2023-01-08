@@ -1,514 +1,518 @@
 {
     "modelos": [
         {
-            "id": 1,
+            "id": 0,
             "texto": "**** à frente"
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "Sem **** à frente"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "**** necessário antes"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "cuidado com ****"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "tente ****"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "Isso pode ser um ***?"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "Se ao menos eu tivesse uma ****..."
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "visões de ****..."
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "Hora de ****"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": "****"
         },
         {
-            "id": 11,
+            "id": 10,
             "texto": "****!"
         },
         {
-            "id": 12,
+            "id": 11,
             "texto": "****?"
         },
         {
-            "id": 13,
+            "id": 12,
             "texto": "****..."
         },
         {
-            "id": 14,
+            "id": 13,
             "texto": "Huh. É um ****..."
         },
         {
-            "id": 15,
+            "id": 14,
             "texto": "louvado seja o ****!"
         },
         {
-            "id": 16,
+            "id": 15,
             "texto": "Deixe estar ****"
         },
         {
-            "id": 17,
+            "id": 16,
             "texto": "Ahh, ****..."
         }
     ],
     "conjuncoes": [
         {
-            "id": 1,
+            "id": 0,
             "texto": " "
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "e depois"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "Portanto"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "resumindo"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "ou"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "só"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "a propósito"
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "por assim dizer"
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "tudo o mais"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": ","
         }
     ],
     "criaturas": [
         {
-            "id": 1,
+            "id": 0,
             "texto": "inimigo"
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "monstro"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "inimigo em conjunto"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "inimigo difícil"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "inimigo crítico"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "Morto-vivo"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "peregrino"
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "prisioneiro"
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "monstruosidade"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": "esqueleto"
         },
         {
-            "id": 11,
+            "id": 10,
             "texto": "fantasma"
         },
         {
-            "id": 12,
+            "id": 11,
             "texto": "fera"
         },
         {
-            "id": 13,
+            "id": 12,
             "texto": "lagarto"
         },
         {
-            "id": 14,
+            "id": 13,
             "texto": "inseto"
         },
         {
-            "id": 15,
+            "id": 14,
             "texto": "homem-larva"
         },
         {
-            "id": 16,
+            "id": 15,
             "texto": "caranguejo"
         },
         {
-            "id": 17,
+            "id": 16,
             "texto": "anão"
         },
         {
-            "id": 18,
+            "id": 17,
             "texto": "gigante"
         },
         {
-            "id": 19,
+            "id": 18,
             "texto": "demônio"
         },
         {
-            "id": 20,
+            "id": 19,
             "texto": "Dragão"
         },
         {
-            "id": 21,
+            "id": 20,
             "texto": "cavaleiro"
         },
         {
-            "id": 22,
+            "id": 21,
             "texto": "mercenário"
         },
         {
-            "id": 23,
+            "id": 22,
             "texto": "guerreiro"
         },
         {
-            "id": 24,
+            "id": 23,
             "texto": "arauto"
         },
         {
-            "id": 25,
+            "id": 24,
             "texto": "bandido"
         },
         {
-            "id": 26,
+            "id": 25,
             "texto": "assassino"
         },
         {
-            "id": 27,
+            "id": 26,
             "texto": "feiticeiro"
         },
         {
-            "id": 28,
+            "id": 27,
             "texto": "piromante"
         },
         {
-            "id": 29,
+            "id": 28,
             "texto": "clérigo"
         },
         {
-            "id": 30,
+            "id": 29,
             "texto": "privado"
         },
         {
-            "id": 31,
+            "id": 30,
             "texto": "Atirador"
         },
         {
-            "id": 32,
+            "id": 31,
             "texto": "duo"
         },
         {
-            "id": 33,
+            "id": 32,
             "texto": "trio"
         },
         {
-            "id": 34,
+            "id": 33,
             "texto": "seu desgraçado"
         },
         {
-            "id": 35,
+            "id": 34,
             "texto": "companheiro"
         },
         {
-            "id": 36,
+            "id": 35,
             "texto": "santo"
         },
         {
-            "id": 37,
+            "id": 36,
             "texto": "desgraçado"
         },
         {
-            "id": 38,
+            "id": 37,
             "texto": "encantador"
         },
         {
-            "id": 39,
+            "id": 38,
             "texto": "pobre alma"
         },
         {
-            "id": 40,
+            "id": 39,
             "texto": "excêntrico"
         },
         {
-            "id": 41,
+            "id": 40,
             "texto": "um ágil"
         },
         {
-            "id": 42,
+            "id": 41,
             "texto": "retardatário"
         },
         {
-            "id": 43,
+            "id": 42,
             "texto": "sacos de dinheiro"
         },
         {
-            "id": 44,
+            "id": 43,
             "texto": "mendigo"
         },
         {
-            "id": 45,
+            "id": 44,
             "texto": "malfeitor"
         },
         {
-            "id": 46,
+            "id": 45,
             "texto": "mentiroso"
         },
         {
-            "id": 47,
+            "id": 46,
             "texto": "gordinho"
         },
         {
-            "id": 48,
+            "id": 47,
             "texto": "mimica"
         },
         {
-            "id": 49,
+            "id": 48,
             "texto": "juventude"
         },
         {
-            "id": 50,
+            "id": 49,
             "texto": "mais velho"
         },
         {
-            "id": 51,
+            "id": 50,
             "texto": "velho covarde"
         },
         {
-            "id": 52,
+            "id": 51,
             "texto": "velho querido"
         },
         {
-            "id": 53,
+            "id": 52,
             "texto": "comerciante"
         },
         {
-            "id": 54,
+            "id": 53,
             "texto": "artesão"
         },
         {
-            "id": 55,
+            "id": 54,
             "texto": "mestre"
         },
         {
-            "id": 56,
+            "id": 55,
             "texto": "sábio"
         },
         {
-            "id": 57,
+            "id": 56,
             "texto": "campeão"
         },
         {
-            "id": 58,
+            "id": 57,
             "texto": "Senhor das Cinzas"
         },
         {
-            "id": 59,
+            "id": 58,
             "texto": "rei"
         },
         {
-            "id": 60,
+            "id": 59,
             "texto": "rainha"
         },
         {
-            "id": 61,
+            "id": 60,
             "texto": "Principe"
         },
         {
-            "id": 62,
+            "id": 61,
             "texto": "Princesa"
         },
         {
-            "id": 63,
+            "id": 62,
             "texto": "anjo"
         },
         {
-            "id": 64,
+            "id": 63,
             "texto": "Deus"
         },
         {
-            "id": 65,
+            "id": 64,
             "texto": "amigo"
         },
         {
-            "id": 66,
+            "id": 65,
             "texto": "aliado"
         },
         {
-            "id": 67,
+            "id": 66,
             "texto": "cônjuge"
         },
         {
-            "id": 68,
+            "id": 67,
             "texto": "aliança"
         },
         {
-            "id": 69,
+            "id": 68,
             "texto": "espírito"
         },
         {
-            "id": 70,
+            "id": 69,
             "texto": "espírito sombrio"
         }
     ],
     "objetos": [
         {
-            "id": 1,
+            "id": 0,
             "texto": "fogueira"
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "brasa"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "parede de neblina"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "alavanca"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "engenhoca"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "chave"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "armadilha"
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "tocha"
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "porta"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": "tesouro"
         },
         {
-            "id": 11,
+            "id": 10,
             "texto": "baú"
         },
         {
-            "id": 12,
+            "id": 11,
             "texto": "algo"
         },
         {
-            "id": 13,
+            "id": 12,
             "texto": "muita coisa"
         },
         {
-            "id": 14,
+            "id": 13,
             "texto": "bobagem"
         },
         {
-            "id": 15,
+            "id": 14,
             "texto": "sujeira"
         },
         {
-            "id": 16,
+            "id": 15,
             "texto": "arma"
         },
         {
-            "id": 17,
+            "id": 16,
             "texto": "escudo"
         },
         {
-            "id": 18,
+            "id": 17,
             "texto": "projétil"
         },
         {
-            "id": 19,
+            "id": 18,
             "texto": "armaduras"
         },
         {
-            "id": 20,
+            "id": 19,
             "texto": "item"
         },
         {
-            "id": 21,
+            "id": 20,
             "texto": "anel"
         },
         {
-            "id": 22,
+            "id": 21,
             "texto": "minério"
         },
         {
-            "id": 23,
+            "id": 22,
             "texto": "carvão"
         },
         {
-            "id": 24,
+            "id": 23,
             "texto": "forno de transposição"
         },
         {
-            "id": 25,
+            "id": 24,
             "texto": "rolagem"
         },
         {
-            "id": 26,
+            "id": 25,
             "texto": "cinza umbral"
         },
         {
-            "id": 27,
+            "id": 26,
             "texto": "trono"
         },
         {
-            "id": 28,
+            "id": 27,
             "texto": "rito"
         },
         {
-            "id": 29,
+            "id": 28,
             "texto": "caixão"
+        },
+        {
+            "id": 29,
+            "texto": "cinza"
         },
         {
             "id": 30,
@@ -516,296 +520,292 @@
         },
         {
             "id": 31,
-            "texto": "cinza"
-        },
-        {
-            "id": 32,
             "texto": "lua"
         },
         {
-            "id": 33,
+            "id": 32,
             "texto": "olho"
         },
         {
-            "id": 34,
+            "id": 33,
             "texto": "cerveja"
         },
         {
-            "id": 35,
+            "id": 34,
             "texto": "sopa"
         },
         {
-            "id": 36,
+            "id": 35,
             "texto": "mensagem"
         },
         {
-            "id": 37,
+            "id": 36,
             "texto": "mancha de sangue"
         },
         {
-            "id": 38,
+            "id": 37,
             "texto": "ilusão"
         }
     ],
     "tecnicas": [
         {
-            "id": 1,
+            "id": 0,
             "texto": "batalha a curta distância"
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "batalha à distância"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "eliminando um de cada vez"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "atraí-lo"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "sangramento"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "emboscada"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "ataque de pinça"
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "atingi-los de uma só vez"
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "empunhadura de duelo"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": "furtividade"
         },
         {
-            "id": 11,
+            "id": 10,
             "texto": "mimetismo"
         },
         {
-            "id": 12,
+            "id": 11,
             "texto": "fugindo"
         },
         {
-            "id": 13,
+            "id": 12,
             "texto": "carregando"
         },
         {
-            "id": 14,
+            "id": 13,
             "texto": "pulando"
         },
         {
-            "id": 15,
+            "id": 14,
             "texto": "Atravessando"
         },
         {
-            "id": 16,
+            "id": 15,
             "texto": "circulando"
         },
         {
-            "id": 17,
+            "id": 16,
             "texto": "preso dentro"
         },
         {
-            "id": 18,
+            "id": 17,
             "texto": "resgate"
         },
         {
-            "id": 19,
+            "id": 18,
             "texto": "Habilidade"
         },
         {
-            "id": 20,
+            "id": 19,
             "texto": "feitiçaria"
         },
         {
-            "id": 21,
+            "id": 20,
             "texto": "piromancia"
         },
         {
-            "id": 22,
+            "id": 21,
             "texto": "milagres"
         },
         {
-            "id": 23,
+            "id": 22,
             "texto": "pura sorte"
         },
         {
-            "id": 24,
+            "id": 23,
             "texto": "prudência"
         },
         {
-            "id": 25,
+            "id": 24,
             "texto": "breve descanso"
         },
         {
-            "id": 26,
+            "id": 25,
             "texto": "fingir de morto"
         }
     ],
     "acoes": [
         {
-            "id": 1,
+            "id": 0,
             "texto": "correr"
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "esquiva"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "rolando"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "recuar"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "pulando"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "atacante"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "ataque de salto"
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "ataque rápido"
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "contra ataque"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": "esfaqueando pelas costas"
         },
         {
-            "id": 11,
+            "id": 10,
             "texto": "guarda atordoamento e facada"
         },
         {
-            "id": 12,
+            "id": 11,
             "texto": "ataque de mergulho"
         },
         {
-            "id": 13,
+            "id": 12,
             "texto": "quebrar escudo"
         },
         {
-            "id": 14,
+            "id": 13,
             "texto": "bloqueio"
         },
         {
-            "id": 15,
+            "id": 14,
             "texto": "aparar"
         },
         {
-            "id": 16,
+            "id": 15,
             "texto": "bloqueio"
         },
         {
-            "id": 17,
+            "id": 16,
             "texto": "sem travamento"
         },
         {
-            "id": 18,
+            "id": 17,
             "texto": "duas mãos"
         },
         {
-            "id": 19,
+            "id": 18,
             "texto": "gesto"
         },
         {
-            "id": 20,
+            "id": 19,
             "texto": "ao controle"
         },
         {
-            "id": 21,
+            "id": 20,
             "texto": "destruir"
         }
     ],
     "geografia": [
         {
-            "id": 1,
+            "id": 0,
             "texto": "pedregulho"
         },
         {
-            "id": 2,
+            "id": 1,
             "texto": "lava"
         },
         {
-            "id": 3,
+            "id": 2,
             "texto": "Gás venenoso"
         },
         {
-            "id": 4,
+            "id": 3,
             "texto": "horda inimiga"
         },
         {
-            "id": 5,
+            "id": 4,
             "texto": "floresta"
         },
         {
-            "id": 6,
+            "id": 5,
             "texto": "pântano"
         },
         {
-            "id": 7,
+            "id": 6,
             "texto": "caverna"
         },
         {
-            "id": 8,
+            "id": 7,
             "texto": "atalho"
         },
         {
-            "id": 9,
+            "id": 8,
             "texto": "Desvio"
         },
         {
-            "id": 10,
+            "id": 9,
             "texto": "caminho oculto"
         },
         {
-            "id": 11,
+            "id": 10,
             "texto": "passagem secreta"
         },
         {
-            "id": 12,
+            "id": 11,
             "texto": "fim da linha"
         },
         {
-            "id": 13,
+            "id": 12,
             "texto": "labirinto"
         },
         {
-            "id": 14,
+            "id": 13,
             "texto": "buraco"
         },
         {
-            "id": 15,
+            "id": 14,
             "texto": "ponto brilhante"
         },
         {
-            "id": 16,
+            "id": 15,
             "texto": "mancha escura"
         },
         {
-            "id": 17,
+            "id": 16,
             "texto": "área aberta"
         }
     ]
