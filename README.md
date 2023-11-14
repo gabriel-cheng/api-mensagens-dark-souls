@@ -6,7 +6,7 @@
 
 # Sobre o projeto
 
-### Link da API: https://messages-darksouls3.up.railway.app
+### Link da API: https://mensagens-ds3.vercel.app/
 
 O projeto se trata de uma API que entrega todas as mensagens traduzidas em pt-br contidas no jogo Dark Souls 3. O conteúdo da API é dividito por categorias, você pode buscar uma categoria específica através de parâmetros da URL, onde caso o parâmetro seja válido, ele se torna um endpoint que entrega as mensagens contidas naquela categoria. Além disso, você também pode, após a categoria, também passar um ID específico de uma mensagem, que caso também seja válido, se tornará outro endpoint trazendo a mensagem relacionada ao ID informado.
 
