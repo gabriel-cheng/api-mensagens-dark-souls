@@ -16,12 +16,12 @@ O projeto se trata de uma API que entrega todas as mensagens traduzidas em pt-br
 
 • Acessar categoria, ex:
 ```
-https://messages-darksouls3.up.railway.app/categoria
+https://mensagens-ds3.vercel.app/categoria
 ```
 
 • Acessar mensagem de categoria, ex:
 ```
-https://messages-darksouls3.up.railway.app/categoria/id
+https://mensagens-ds3.vercel.app/categoria/id
 ```
 
 ## 📜 Lista de categorias / id
